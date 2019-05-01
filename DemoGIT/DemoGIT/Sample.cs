@@ -8,5 +8,12 @@ namespace DemoGIT
 {
     class Sample
     {
+         public int add()
+        {
+            int x = 10; 
+            int y = 20;
+            int sum = x + y;
+            return sum;
+        }
     }
 }
