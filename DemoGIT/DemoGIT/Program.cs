@@ -13,6 +13,8 @@ namespace DemoGIT
             //Code changed in local
             
             //Code added anotther line on online
+            
+            // Code changed on server to use pull
         }
     }
 }
